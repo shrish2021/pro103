@@ -1,0 +1,19 @@
+body {
+    color: white;
+    background: lightskyblue;
+}
+
+#mainDiv {
+    color: black;
+}
+
+span {
+    font-size: 30px;
+}
+
+#camera, #result {
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+
